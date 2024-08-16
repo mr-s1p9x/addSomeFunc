@@ -1,0 +1,3 @@
+C:/Users/s1pex/Documents/Cpp/addFunc/cmake-build-debug/CMakeFiles/addFunc.dir
+C:/Users/s1pex/Documents/Cpp/addFunc/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/s1pex/Documents/Cpp/addFunc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
